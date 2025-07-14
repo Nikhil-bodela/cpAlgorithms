@@ -1,2 +1,3 @@
 # cpAlgorithms
-solutiong for https://cp-algorithms.com/ practice questions
+solutions for https://cp-algorithms.com/ practice questions
+
